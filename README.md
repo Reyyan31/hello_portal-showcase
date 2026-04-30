@@ -31,12 +31,8 @@ I designed and built the full system: data architecture, business logic, double-
 
 <table>
   <tr>
-    <td><img src="hello-1.jpg" alt="Hello CIT Dashboard" width="100%"/></td>
-    <td><img src="hello-2.jpg" alt="Hello CIT HR Module" width="100%"/></td>
-  </tr>
-  <tr>
-    <td><img src="hello-3.jpg" alt="Hello CIT Accounting" width="100%"/></td>
-    <td><img src="hello-4.jpg" alt="Hello CIT Project Tracking" width="100%"/></td>
+    <td><img src="hello-1.jpg" alt="Hello CIP Login" width="100%"/></td>
+    <td><img src="hello-2.webp" alt="Hello CIP  Dashboard" width="100%"/></td>
   </tr>
 </table>
 
